@@ -1,7 +1,5 @@
 # 민경원 | Kyoungwon Min
 ### Backend Developer
->안녕하세요. 저는 서버와 클라우드에 관심있는 개발자 민경원입니다. <br>
->Hi, I'm Backend Developer who is interested in Spring with Java and Cloud.
 
 **Email**: mkkw2047@gmail.com <br>
 **Blog**: https://mkwkw.tistory.com/ <br>
@@ -10,9 +8,17 @@
 [![Solved.ac
 mkkw0228](http://mazassumnida.wtf/api/v2/generate_badge?boj=mkkw0228)](https://solved.ac/mkkw0228)
 
+## ✈️ About Me
+>안녕하세요. 저는 서버와 클라우드에 관심있는 개발자 민경원입니다. <br>
+>사람들이 일상생활에서 불편하다고 느끼는 점을 개선하는 서비스를 기획하고 개발하는 것을 좋아합니다. <br>
+>여러 동료들과 함께 공동의 목표를 향해 나아가는 과정을 좋아합니다. <br>
+>주변 사람들이 말하는 저는 "항상 믿고 의지할 수 있는 든든한 사람"입니다. <br>
+
 ## 💻 Work Experiences
 **2022.10-2022.12** | 모바일 앱개발 협동조합 - 백엔드 개발 인턴 (Backend Developer Intern) <br>
-
+## 📚 Education
+**2019.03-2023.08** | 이화여자대학교 컴퓨터공학전공 <br>
+**2015.03-2018.02** | 용인한국외국어대학교부설고등학교(HAFS) 자연과학계열<br>
 ## 🎯 Experiences
 ### 동아리
 **2022.03-2023.02** | GDSC Ewha <br>
@@ -24,9 +30,9 @@ mkkw0228](http://mazassumnida.wtf/api/v2/generate_badge?boj=mkkw0228)](https://s
 **2021.07-2021.08** | SW 중심대학 주관 실리콘밸리 교육 프로그램 - 업사이클링 제품 판매 서비스 Up it! 기획, 팀장 - Figma, Android <br>
 **2021.06-2021.07** | 이화여자대학교 2021 여름 계절학기 스타트업해커톤캠프 - 음식점 실시간 정보 공유 커뮤니티 서비스 RENO 기획 - Figma <br>
 
-## Projects
-**2022.10-2022.12** | 모바일 앱개발 협동조합 - 백엔드 개발 인턴<br>
-외국인 대상 한국 여행 일정 계획 서비스<br>
+## 🖇️Projects
+**2022.10-2022.12** | **모바일 앱개발 협동조합 - 백엔드 개발 인턴**<br>
+**외국인 대상 한국 여행 일정 계획 서비스**<br>
 `Spring boot Mybatis` `Java` `MySQL` `Azure` `Nginx` `Let's Encrypt` `AWS` <br>
 - API 개발, DB 설계, 테스트 서버 구축 및 배포
 - Spring boot Mybatis MVC 패턴 약 100개의 REST API 개발
@@ -38,8 +44,8 @@ mkkw0228](http://mazassumnida.wtf/api/v2/generate_badge?boj=mkkw0228)](https://s
 - 테스트 코드 작성(JUnit)
 <br>
 
-**2022.10-2022.12** | 모바일 앱개발 협동조합 - 백엔드 개발 인턴<br>
-마카오/홍콩 여행 상품 판매 서비스 <br>
+**2022.10-2022.12** | **모바일 앱개발 협동조합 - 백엔드 개발 인턴**<br>
+**마카오/홍콩 여행 상품 판매 서비스** <br>
 `Spring boot JPA` `Java` `MySQL` `AWS`
 - API 개발
 - Spring boot JPA MVC 패턴 40개의 REST API 개발
@@ -50,8 +56,8 @@ mkkw0228](http://mazassumnida.wtf/api/v2/generate_badge?boj=mkkw0228)](https://s
 - 테스트 코드 작성(JUnit)
 <br>
 
-**2021.09-2022.06** | 졸업 프로젝트 - 백엔드 개발 <br>
-딥러닝기반 글씨 검사 기능을 탑재한 태블릿 PC용 글씨연습어플,  바른글씨 <br>
+**2021.09-2022.06** | **이화여자대학교 컴퓨터공학전공 졸업 프로젝트 - 백엔드 개발** <br>
+**딥러닝기반 글씨 검사 기능을 탑재한 태블릿 PC용 글씨연습어플,  바른글씨** <br>
 `Spring boot JPA` `Java` `MySQL` `AWS`
 1. 태블릿 PC에 필기할 때 사용자가 원하는 글씨체로 글씨를 쓸 수 있도록 도와주는 서비스 <br>
 2. 사용자의 글씨에 대한 3가지 피드백 (글자의 기울기/크기/음소의 비율 검사) 제시 <br>
