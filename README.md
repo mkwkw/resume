@@ -21,7 +21,7 @@ mkkw0228](http://mazassumnida.wtf/api/v2/generate_badge?boj=mkkw0228)](https://s
 **2015.03-2018.02** | 용인한국외국어대학교부설고등학교(HAFS) 자연과학계열<br>
 ## 🎯 Experiences
 ### 부트캠프
-**2023.06.26-현재** | 슈퍼코딩 1:1 관리형 부트캠프 수강중
+**2023.06.26-2023.10.20** | 슈퍼코딩 1:1 관리형 웹개발 백엔드 부트캠프 수강
 ### 동아리
 **2022.03-2023.02** | GDSC Ewha <br>
 **2020.07-2022.06** | 이화여자대학교 소프트웨어학부 알고리즘 동아리 EDOC <br>
@@ -33,6 +33,38 @@ mkkw0228](http://mazassumnida.wtf/api/v2/generate_badge?boj=mkkw0228)](https://s
 **2021.06-2021.07** | 이화여자대학교 2021 여름 계절학기 스타트업해커톤캠프 - 음식점 실시간 정보 공유 커뮤니티 서비스 RENO 기획 - Figma <br>
 
 ## 🖇️Projects
+**2023.08.28-2023.09.22**
+**의류 쇼핑몰**
+`Spring boot JPA` `Java` `AWS RDS(MySQL)/EC2/S3/RabbitMQ/MongoDB`
+- 백엔드 5명, 프론트엔드 5명 협업
+- **쿠폰, 회원 등급 담당**
+  1. 회원 등급별 쿠폰 발급 구현
+  2. Pessimistic Lock 이용하여 쿠폰 재고 관리(동시성 문제 해결)
+  3. Spring Batch와 Scheduling 사용하여 유효기간 만료 쿠폰 삭제 기능 및 구매 총액에 따른 회원 등급 조정 기능 구현 & 리팩토링
+    - @Scheduled만 사용 → Spring Batch와 @Scheduled 함께 사용
+    - Tasklet 방식 사용
+- JMeter 이용 부하 테스트
+
+**2023.08.14-2023.08.25**     
+**고양이 용품 쇼핑몰**
+`Spring boot JPA` `Java` `AWS RDS(MySQL)/EC2`
+- 백엔드 6명, 프론트엔드 5명 협업
+- 백엔드 역할 분배: 회원 2명, 마이페이지와 장바구니 2명, 상품 담당: 2명
+- **AWS RDS 담당 및 상품 담당 - 상품 옵션, 조회, 검색**
+  1. AWS RDS 파라미터 그룹 튜닝(max connections, wait timeout)
+  2. 상품 조회 및 검색 성능 향상(Spring Cache, MySQL Index)- 전체 상품 조회 시, 651ms에서 10ms로 시간 감축
+  3. Stream API 사용하여 가독성 향상
+  4. LEFT JOIN 이용하여 판매순 정렬 개발
+
+**2023.08.07-2023.08.11**    
+**게시판 만들기 프로젝트**
+`Spring boot JPA` `Java` `AWS RDS(MySQL)`
+- 백엔드 개발자 5명이 각자 JWT, 회원, 게시글, 댓글, 좋아요 파트를 맡아서 협업
+- **JWT 담당**
+    1. JWT 토큰 발급
+    2. JWT 토큰 복호화(Argument Resolver 이용)
+    3. JWT 사용 범위 지정하는 어노테이션 생성 및 활용
+
 **2022.10-2022.12** | **모바일 앱개발 협동조합 - 백엔드 개발 인턴**<br>
 **외국인 대상 한국 여행 일정 계획 서비스**<br>
 `Spring boot Mybatis` `Java` `MySQL` `Azure` `Nginx` `Let's Encrypt` `AWS` <br>
